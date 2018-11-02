@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BrainTimer</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="_0_15">0/15</string>
+    <string name="_30s">30s</string>
+</resources>
